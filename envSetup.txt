@@ -1,0 +1,9 @@
+
+-To setup a python virtual environemnt
+python3 -m venv venv 
+-To activate the virtual env
+venv/bin/activate
+
+
+pip install -r requirements.txt
+
